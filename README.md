@@ -1,6 +1,5 @@
 
- 
-Logistic Regression using Machine Learning 
+ # Logistic Regression using Machine Learning 
 
 🧠 Project Description
 
