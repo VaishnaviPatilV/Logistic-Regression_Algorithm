@@ -1,6 +1,6 @@
 
- Project Title
-Logistic Regression using Machine Learning (End-to-End Project)
+ 
+Logistic Regression using Machine Learning 
 
 🧠 Project Description
 
